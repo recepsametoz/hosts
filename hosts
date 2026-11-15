@@ -147,3 +147,9 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 onedscolprdeus68.eastus.cloudapp.azure.com
+0.0.0.0 msft-ssp.adnxs.com
+0.0.0.0 msft-ssp-zne1.adnxs.com
+0.0.0.0 xandrpmc-msft-ssp.trafficmanager.net
+0.0.0.0 adsdkprod.azureedge.net
