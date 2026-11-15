@@ -154,3 +154,5 @@
 0.0.0.0 xandrpmc-msft-ssp.trafficmanager.net
 0.0.0.0 adsdkprod.azureedge.net
 0.0.0.0 1g71brhir.us-east-1.awstrack.me
+0.0.0.0 o33249.ingest.sentry.io
+0.0.0.0 firebase-settings.crashlytics.com
