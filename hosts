@@ -90,3 +90,14 @@
 0.0.0.0 sukt.bidverseus.top
 0.0.0.0 a1831.dscg2.akamai.net
 0.0.0.0 adirta.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 telemetry-gke-gw1.ssp.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 config-server-gke-gw1.ssp.inmobi.com
+0.0.0.0 configure-tcp-android.mtgglobals.com
+0.0.0.0 cdn-adh-https.mtgglobals.com
+0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 api16-access-wf-sg.pangle-b.io
+0.0.0.0 b.applovin.com
+0.0.0.0 b5vbk6.inapps.appsflyersdk.com
+0.0.0.0 x.thecatmachine.com
