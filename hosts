@@ -89,7 +89,6 @@
 0.0.0.0 us-event.roai.cloud
 0.0.0.0 sukt.bidverseus.top
 0.0.0.0 a1831.dscg2.akamai.net
-0.0.0.0 adirta.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry-gke-gw1.ssp.inmobi.com
 0.0.0.0 config.inmobi.com
@@ -108,7 +107,6 @@
 0.0.0.0 i-adq.mediation.unity3d.com
 0.0.0.0 a-adq.mediation.unity3d.com
 0.0.0.0 o-adq.mediation.unity3d.com
-0.0.0.0 cdn-adh-https.mtgglobals.com
 0.0.0.0 d1om9znyumzhxf.cloudfront.net
 0.0.0.0 mdtb-cf-1.ads.aps.amazon-adsystem.com
 0.0.0.0 wetteronline-pbs.relevant-digital.com
@@ -167,8 +165,6 @@
 0.0.0.0 clarity.ms
 0.0.0.0 www.clarity.ms
 0.0.0.0 c.clarity.ms
-0.0.0.0 app.adjust.com
-0.0.0.0 app.adjust.io
 0.0.0.0 gtm.flo.com.tr
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 adtracking-dra.ads.honor.com
