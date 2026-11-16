@@ -178,3 +178,8 @@
 0.0.0.0 metrics-dre.dt.hihonorcloud.com
 0.0.0.0 tra.os.ydmob.com
 0.0.0.0 tracker.dsp.os.medproad.com
+0.0.0.0 app.tr.adjust.com
+0.0.0.0 o825645.ingest.us.sentry.io
+0.0.0.0 analytics.google.com
+0.0.0.0 analytics-afv.google.com
+0.0.0.0 www.googletagmanager.com
