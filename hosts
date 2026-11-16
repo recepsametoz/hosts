@@ -183,3 +183,4 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics-afv.google.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 firebaselogging.googleapis.com
