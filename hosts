@@ -185,3 +185,9 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 matchgroup-tinder.adsbynimbus.com
+0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 mediation-sg-b.pangle.io
+0.0.0.0 mediation-sg2-log.pangle.io
+0.0.0.0 app.adjust.net.in
