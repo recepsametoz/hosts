@@ -220,3 +220,8 @@
 0.0.0.0 prod-e4.axon.ai
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 nl-new-cdn-ssllib-europe-west4-b-hb.mtgglobals.com
+0.0.0.0 cdn-adh-https-new.mtgglobals.com
+0.0.0.0 nl-new-cdn-ssllib-europe-west4-c-hb.mtgglobals.com
+0.0.0.0 nl-gcp-interaction-sdk-europe-west4-c-hb.mtgglobals.com
+0.0.0.0 nl-gcp-ad-mof-sdk-europe-west4-c-hb.mtgglobals.com
+0.0.0.0 nl-new-cdn-europe-west4-c-hb-bid-feedback.mtgglobals.com
