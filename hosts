@@ -210,4 +210,5 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 vast.googleapis.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
 
