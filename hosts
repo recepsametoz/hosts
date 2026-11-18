@@ -207,3 +207,5 @@
 0.0.0.0 api.admob.com
 0.0.0.0 media.admob.com
 0.0.0.0 app-measurement.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 vast.googleapis.com
