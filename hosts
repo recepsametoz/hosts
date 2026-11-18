@@ -8,8 +8,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagservices.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
@@ -131,7 +130,6 @@
 0.0.0.0 ads-dra.platform.hihonorcloud.com
 0.0.0.0 adtracking-dra.ads.honor.com
 0.0.0.0 track.lacunaads.com
-0.0.0.0 www.google-analytics.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics-afv.google.com
 0.0.0.0 analytics.us.tiktok.com
@@ -143,7 +141,6 @@
 0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 onedscolprdeus68.eastus.cloudapp.azure.com
 0.0.0.0 clarity.ms
-0.0.0.0 www.clarity.ms
 0.0.0.0 c.clarity.ms
 0.0.0.0 gtm.flo.com.tr
 0.0.0.0 intake-analytics.wikimedia.org
@@ -199,16 +196,4 @@
 0.0.0.0 sukt.bidverseus.top
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
-0.0.0.0 api.ariochpds.cc
-0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
-0.0.0.0 sdk.ironsrc.com
-0.0.0.0 init.supersonic.com
-0.0.0.0 api.admob.com
-0.0.0.0 media.admob.com
-0.0.0.0 app-measurement.com
-0.0.0.0 imasdk.googleapis.com
-0.0.0.0 vast.googleapis.com
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
-
+0.0.0.0 www.googleadservices.com0.0.0.0 www.googletagservices.com0.0.0.0 www.googletagmanager.com0.0.0.0 www.google-analytics.com0.0.0.0 www.clarity.ms0.0.0.0 api.ariochpds.cc
