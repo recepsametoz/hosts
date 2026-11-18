@@ -10,8 +10,6 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
@@ -202,3 +200,10 @@
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 ahoy-internal-ads-hv.b-cdn.net
 0.0.0.0 api.ariochpds.cc
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 sdk.ironsrc.com
+0.0.0.0 init.supersonic.com
+0.0.0.0 api.admob.com
+0.0.0.0 media.admob.com
+0.0.0.0 app-measurement.com
