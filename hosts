@@ -148,3 +148,13 @@
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 rtb-us-east.linkedin.com
 0.0.0.0 rtb.linkedin.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 aax-fe.amazon-adsystem.com
+0.0.0.0 mdtb-cf-1.ads.amazon-adsystem.com
+0.0.0.0 wetteronline-pbs.relevant-digital.com
+0.0.0.0 insights.unity3d.com
