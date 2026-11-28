@@ -155,3 +155,8 @@
 0.0.0.0 x.everestop.io
 0.0.0.0 x.thecatmachine.com
 0.0.0.0 xandrpmc-msft-ssp.trafficmanager.net
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
+0.0.0.0 insights.unity3d.com
+0.0.0.0 unity-data-gke-prd-gateway.adp.internal.unity3d.com
