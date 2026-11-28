@@ -160,3 +160,8 @@
 0.0.0.0 remote-config-prd.uca.cloud.unity3d.com
 0.0.0.0 insights.unity3d.com
 0.0.0.0 unity-data-gke-prd-gateway.adp.internal.unity3d.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 www.3l.google.com
+0.0.0.0 ep2.adtrafficquality.google
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 s0.2mdn.net
